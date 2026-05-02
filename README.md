@@ -15,12 +15,9 @@ Across 2019–2022, Robusta and Liberica consistently generate the highest month
 **These two bean types dominate due to strong demand and higher‑volume purchases**.
 
 **2. The United States Drives the Majority of Global Revenue**
-Country‑level sales show a clear imbalance in market contribution:
-
+Country‑level sales show a clear imbalance in market contribution
 *United States: $35,638.88*
-
 *Ireland: $6,696.86*
-
 *United Kingdom: $2,798.50*
 
 **The U.S. accounts for over 75% of all revenue, making it the primary market for expansion, loyalty programs, and targeted promotions**.
@@ -38,4 +35,28 @@ The top 5 customers contribute only a small fraction of total revenue:
 **4. Seasonal Patterns Show Strong Mid‑Year Sales**
 Across multiple years, June–September consistently show higher sales volumes, especially for Robusta and Liberica.
 This suggests that Summer promotions, Cold brew product lines, and Outdoor events, could further boost revenue.
+
+📊 **Dashboard Features**
+
+The final dashboard is shown in the image below with the following features:
+- *Year‑over‑Year Sales Trends (2019–2022)*
+- *Coffee Type Performance (Arabica, Robusta, Liberica, Excelsa)*
+- *Country‑Level Revenue Comparison*
+- *Top Customer Leaderboard*
+- *Monthly Seasonality Patterns*
+- *Interactive Filters for Coffee Type, Roast, Size, and Country*
+
+![dashboard](https://github.com/abdulaikabba19/Coffee_sales/blob/main/dashboard.png?raw=true).
+
+🧠 **Tools & Skills Demonstrated**
+- *Data Cleaning & Transformation*
+- *Advanced Excel (Pivot Tables, Slicers, Data Modeling)*
+- *Insight‑Driven Storytelling*
+- *Dashboard UI/UX Optimization*
+
+📑 **Conclusion**
+This project delivered a clear understanding of sales performance across coffee types, countries, and customer segments, revealing strong demand for Robusta and Liberica and the dominant revenue contribution from the United States. The dashboard also highlighted seasonal patterns and shifts in consumer preferences over the four‑year period. By transforming raw transactional data into meaningful insights, the analysis supports smarter business decisions and future growth opportunities. Overall, the project demonstrates the value of data‑driven storytelling in uncovering trends that are not immediately visible.
+
+Working through this project strengthened my analytics skills by deepening my experience with data modeling, visualization, and insight extraction—especially in identifying patterns, validating trends, and presenting findings clearly and professionally.
+
 
