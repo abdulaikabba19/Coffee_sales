@@ -25,12 +25,15 @@ Country‑level sales show a clear imbalance in market contribution:
 
 **The U.S. accounts for over 75% of all revenue, making it the primary market for expansion, loyalty programs, and targeted promotions**.
 
+![top_sales_by_country](https://github.com/abdulaikabba19/Coffee_sales/blob/main/sales_by%20country.png?raw=true)
+
 **3. Customer Spending Is Highly Fragmented**
 The top 5 customers contribute only a small fraction of total revenue:
 
  With *Allis Wilmore  having the highest contribution of $317.07, and Don Flintiff being the lowest of the top five with a total contribution of $278.01*.
 
 **This indicates a broad customer base with no over‑reliance on a few buyers, which is healthy for long‑term stability**.
+![customer_sales](
 
 **4. Seasonal Patterns Show Strong Mid‑Year Sales**
 Across multiple years, June–September consistently show higher sales volumes, especially for Robusta and Liberica.
