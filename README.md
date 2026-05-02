@@ -33,7 +33,7 @@ The top 5 customers contribute only a small fraction of total revenue:
  With *Allis Wilmore  having the highest contribution of $317.07, and Don Flintiff being the lowest of the top five with a total contribution of $278.01*.
 
 **This indicates a broad customer base with no over‑reliance on a few buyers, which is healthy for long‑term stability**.
-![customer_sales](
+![customer_sales](https://github.com/abdulaikabba19/Coffee_sales/blob/main/top%205customer.png?raw=true)
 
 **4. Seasonal Patterns Show Strong Mid‑Year Sales**
 Across multiple years, June–September consistently show higher sales volumes, especially for Robusta and Liberica.
